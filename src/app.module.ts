@@ -7,7 +7,7 @@ import { MongoProvider } from './database/mongo.providers';
 @Module({
   imports: [
     ConfigModule.forRoot({
-      isGlobal: true, // Hace que el módulo de configuración sea global
+      isGlobal: true,
     }),
     MongoProvider,
   ],

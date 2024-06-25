@@ -11,6 +11,9 @@ Este es un boilerplate para proyectos en NestJS que incluye configuración para 
 - **Módulo de Configuración**: Manejo de variables de entorno con `@nestjs/config`.
 - **Base de Datos**: Configuración para conexiones a PostgreSQL y MongoDB.
 - **Prettier**: Configuración personalizada para mantener un estilo de código consistente.
+- **Swagger**: Documentación de la API con Swagger.
+- **Global Pipes**: Validación de datos global usando `ValidationPipe`.
+- **Logger**: Registro de actividades con el logger de NestJS.
 
 ## Requisitos Previos
 
